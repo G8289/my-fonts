@@ -22,10 +22,10 @@
   font-display: swap;
 }
 
-/* (造字工房悦黑纤细体) */
+/* (造字工房尚黑常规体) */
 @font-face {
-  font-family: 'YHXX';
-  src: url('YueHeiXianXiTi.woff2');
+  font-family: 'SHCGT';
+  src: url('ShangHeiChangGuiTi.woff2');
   font-weight: normal;
   font-display: swap;
 }
