@@ -9,7 +9,7 @@
 /* (洪萌体) */
 @font-face {
   font-family: 'SiteCustomFont';  /* <-- 這是您要在後台填寫的新名稱 */
-  src: url('HSSR.woff2'); /* <-- 這是您剛上傳的檔名 */
+  src: url('HSSR.woff'); /* <-- 這是您剛上傳的檔名 */
   font-weight: normal; /* Regular 一般是 normal 或 400 */
   font-display: swap;
 }
