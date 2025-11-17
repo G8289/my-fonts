@@ -1,7 +1,15 @@
+/* (可可体) */
 @font-face {
   font-family: 'BWCKKT';
-  /* 載入同一個資料夾下的 .woff2 檔案 */
-  src: url('BWCKKT.woff2'); 
-  font-weight: 700;
-  font-display: swap; /* 關鍵的優化代碼 */
+  src: url('BWCKKT.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (洪萌体) */
+@font-face {
+  font-family: 'SiteCustomFont';  /* <-- 這是您要在後台填寫的新名稱 */
+  src: url('HSSR.woff2'); /* <-- 這是您剛上傳的檔名 */
+  font-weight: normal; /* Regular 一般是 normal 或 400 */
+  font-display: swap;
 }
