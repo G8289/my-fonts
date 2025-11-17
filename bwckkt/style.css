@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'BWCKKT';
+  /* 載入同一個資料夾下的 .woff2 檔案 */
+  src: url('BWCKKT.woff2'); 
+  font-weight: 700;
+  font-display: swap; /* 關鍵的優化代碼 */
+}
