@@ -30,7 +30,7 @@
   font-display: swap;
 }
 
-/* (造字工房景悦体 - 可用板块名称，不适用标题、内容)不支持繁体) */
+/* (造字工房景悦体 - 不适用板块名称，但是适用标题、内容)支持繁体) */
 @font-face {
   font-family: 'JYT';
   src: url('JingYueTi.woff2');
@@ -38,7 +38,7 @@
   font-display: swap;
 }
 
-/* (造字工房悦黑体 - 可用板块名称，不适用标题、内容)不支持繁体) */
+/* (造字工房悦黑体 - 可用子板块名称，不适用标题、内容)不支持繁体) */
 @font-face {
   font-family: 'YHT';
   src: url('YueHeiTi.woff2');
