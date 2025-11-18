@@ -6,7 +6,7 @@
   font-display: swap;
 }
 
-/* (可可体常规 - 可用板块名称，不适用标题、内容)不支持繁体 */
+/* (可可体常规 - 不适用全局、标题、内容。可用板块名称)不支持繁体 */
 @font-face {
   font-family: 'BWCKKR';
   src: url('BWCKKR.woff2');
@@ -14,7 +14,7 @@
   font-display: swap;
 }
 
-/* (造字工房景悦体 - 不适用板块名称，但是适用标题、内容)支持繁体) */
+/* (造字工房景悦体 - 不适用全局、标题、内容。可用板块名称)支持繁体) */
 @font-face {
   font-family: 'MFJYT';
   src: url('MFJingYue.woff2');
@@ -22,7 +22,7 @@
   font-display: swap;
 }
 
-/* (造字工房尚黑常规体 - 可用板块名称，不适用标题、内容)不支持繁体) */
+/* (造字工房尚黑常规体 - 不适用全局、标题、内容。可用板块名称)不支持繁体) */
 @font-face {
   font-family: 'MFSHT';
   src: url('MFShangHei.woff2');
@@ -30,15 +30,7 @@
   font-display: swap;
 }
 
-/* (造字工房雅圆常规体 - 测试)不支持繁体) */
-@font-face {
-  font-family: 'MFYaYT';
-  src: url('MFYaYuan.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (造字工房悦黑体 - 可用子板块名称，不适用标题、内容)不支持繁体) */
+/* (造字工房悦黑体 - 不适用全局、标题。可用板块名称、内容)不支持繁体) */
 @font-face {
   font-family: 'MFYHT';
   src: url('MFYueHei.woff2');
@@ -46,7 +38,7 @@
   font-display: swap;
 }
 
-/* (造字工房悦圆常规体 - 测试)不支持繁体) */
+/* (造字工房悦圆常规体 - 不适用全局、标题。可用板块名称、内容)不支持繁体) */
 @font-face {
   font-family: 'MFYueYT';
   src: url('MFYueYuan.woff2');
