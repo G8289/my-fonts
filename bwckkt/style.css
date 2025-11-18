@@ -1,7 +1,7 @@
 /* (洪萌体 - 标准用) */
 @font-face {
   font-family: 'SiteCustomFont';  /* <-- 這是您要在後台填寫的新名稱 */
-  src: url('HSSR.woff'); /* <-- 這是您剛上傳的檔名 */
+  src: url('HOSSR.woff'); /* <-- 這是您剛上傳的檔名 */
   font-weight: normal; /* Regular 一般是 normal 或 400 */
   font-display: swap;
 }
@@ -14,35 +14,42 @@
   font-display: swap;
 }
 
-/* (可可体粗体 - 可用板块名称，不适用标题、内容)不支持繁体 */
+/* (造字工房景悦体 - 不适用板块名称，但是适用标题、内容)支持繁体) */
 @font-face {
-  font-family: 'BWCKKT';
-  src: url('BWCKKT.woff2');
+  font-family: 'MFJYT';
+  src: url('MFJingYue.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
 /* (造字工房尚黑常规体 - 可用板块名称，不适用标题、内容)不支持繁体) */
 @font-face {
-  font-family: 'SHCGT';
-  src: url('ShangHeiChangGuiTi.woff2');
+  font-family: 'MFSHT';
+  src: url('MFShangHei.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (造字工房景悦体 - 不适用板块名称，但是适用标题、内容)支持繁体) */
+/* (造字工房雅圆常规体 - 测试)不支持繁体) */
 @font-face {
-  font-family: 'JYT';
-  src: url('JingYueTi.woff2');
+  font-family: 'MFYaYT';
+  src: url('MFYaYuan.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
 /* (造字工房悦黑体 - 可用子板块名称，不适用标题、内容)不支持繁体) */
 @font-face {
-  font-family: 'YHT';
-  src: url('YueHeiTi.woff2');
+  font-family: 'MFYHT';
+  src: url('MFYueHei.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
+/* (造字工房悦圆常规体 - 测试)不支持繁体) */
+@font-face {
+  font-family: 'MFYueYT';
+  src: url('MFYueYuan.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
